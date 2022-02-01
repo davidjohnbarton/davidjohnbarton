@@ -8,3 +8,6 @@
 davidjohnbarton/davidjohnbarton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Watch the video](https://img.youtube.com/vi/FZgi9YxNBa0/default.jpg)](https://youtu.be/FZgi9YxNBa0)
+
