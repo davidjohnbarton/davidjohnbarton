@@ -1,7 +1,21 @@
-## Tutorial
- 
-If you would like a step-by-step tutorial on how to scrape Booking, read our blog post on [how to scrape Booking.com](https://blog.apify.com/crawling-booking-com-47511a59eef/)
+# About me
 
-Or watch this tutorial video:
+I'm Dave, Head of Content at [Apify](https://apify.com)
 
-[![Watch the video](https://img.youtube.com/vi/FZgi9YxNBa0/default.jpg)](https://youtu.be/FZgi9YxNBa0)
+We provide real-time web data for AI.
+
+## What is Apify?
+
+Apify is a platform for building and running Actors. 
+
+Actors are a new way to package software tools to make them easy to develop, share, integrate, and build upon. They are based on Docker images, they accept a well-defined JSON input, perform an action, and optionally produce a well-defined JSON output. Actors are useful for shipping tools for web scraping, data extraction, MCP servers, and AI agents.
+
+Apify has 8,000+ ready-made Actors in [Apify Store](https://apify.com/store).
+
+## What I do
+
+I manage the complete content pipeline and processes for Apify. That means strategy, systems, and execution across marketing, education, and user-facing content.
+
+## Get in touch
+
+If you think there's a way we could work together: hello@apify.com
